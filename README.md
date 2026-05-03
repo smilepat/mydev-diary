@@ -1,3 +1,10 @@
+> 📦 **Archived 2026-05-03** — Tier 3-C (Devlog/Diary lineage)
+> **시도 단계**: push-diary 직전 버전 (2026-02-14~2026-02-25, PUB)
+> **재사용 가능 자산**: 동일한 App.tsx 구조. **현재 활성**: push-diary
+> **현재 활성**: [push-diary](https://github.com/smilepat/push-diary) (워크플로우), [mydev_diary_tesol](https://github.com/smilepat/mydev_diary_tesol) (멀티유저 DevHub)
+> **Unarchive**: `gh repo unarchive smilepat/<name>`
+
+---
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
